@@ -64,7 +64,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = com.azura.launcher
+        applicationId = "com.azura.launcher"
         applicationIdSuffix = ".v2"
         minSdk = 26
         targetSdk = 34
